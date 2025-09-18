@@ -8,3 +8,5 @@ lightgbm
 mlflow
 flask
 setuptools
+gunicorn
+werkzeug
